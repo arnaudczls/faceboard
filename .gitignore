@@ -7,3 +7,4 @@ raw_data/
 .env
 notebooks/
 faceboard/old/
+transfer_learning_model/
