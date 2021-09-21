@@ -9,7 +9,7 @@ setup(
     name='faceboard',
     version='0.0.1',
     description='package from project which recognize face',
-    url='git@github.com:arnaudczls/bankup.git',
+    url='git@github.com:arnaudczls/faceboard.git',
     author='Arnaud CAZELLES',
     author_email='a.cazelles@gmail.com',
     license='unlicense',
